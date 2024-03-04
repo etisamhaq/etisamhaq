@@ -19,6 +19,10 @@
 - Databases
 - Web Development
 
+## Tech Competitions
+- [PuCon23](https://drive.google.com/file/d/1yFHPU3xGbckjI9j0ZjGghIwSpS1RyhYI/view): Took part in WebHackathon and got 9th position from around 40 teams.
+- [Softec23](https://drive.google.com/file/d/1dgeuMYyYRhE_28A9uS-xxLQSPf4cU-I4/view): Participated in Programming Competition.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/etisam-ul-haq-03b5a3245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etisamulhaq" height="30" width="40" /></a>
