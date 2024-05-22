@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Etisam Ul Haq</h1>
-<h3 align="center">A Passionate Data Science & Machine Learning Student</h3>
+<h3 align="center">A Data Science & Machine Learning Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etisamhaq" alt="etisamhaq" /></a> </p>
 
-- I am a dedicated student pursuing a Bachelor's degree in Data Science. As an aspiring Data Scientist, I am driven by a strong desire to continuously learn and excel in this dynamic field. 
-- I’m currently learning **Data Science, Machine Learning, Data Analysis in Python and Excel, Data Visualization in Power Bi & SQL Databases**
+- Certified Data Scientist and a dedicated student pursuing a Bachelor's degree in Data Science. As an aspiring Data Scientist, I am driven by a strong desire to continuously learn and excel in this dynamic field. 
+- I’m currently learning **Data Science, Machine Learning, SQL Databases, Data Analysis in Python (Pandas, NumPy) and Excel, Data Visualization in Power Bi, Matplotlib, Seaborn**
 
 ## Technologies and Skills:
 Programming and Data Analysis:
