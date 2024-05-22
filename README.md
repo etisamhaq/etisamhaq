@@ -6,12 +6,28 @@
 - I am a dedicated student pursuing a Bachelor's degree in Data Science. As an aspiring Data Scientist, I am driven by a strong desire to continuously learn and excel in this dynamic field. 
 - I’m currently learning **Data Science, Machine Learning, Data Analysis in Python and Excel, Data Visualization in Power Bi & SQL Databases**
 
-## Skills
-- Programming Languages: Python, JavaScript
-- Web Development: HTML, CSS, JavaScript, Django, Flask
-- Database Systems: MySQL
-- Version Control: Git
+## Technologies and Skills:
+Programming and Data Analysis:
+- Python: Expertise in Python programming for data science applications.
+- SQL: Proficient in SQL for database management and querying.
+- Machine Learning: Strong foundation in machine learning techniques and algorithms.
+- Statistical Analysis: Skilled in statistical analysis for data interpretation and insights.
+- Pandas: Extensive experience using Pandas for data manipulation and analysis.
+- NumPy: Proficient in using NumPy for numerical computations and data processing.
 
+Data Visualization:
+- Power BI: Experienced in creating dynamic and interactive data visualizations.
+- Excel: Skilled in using Excel for data analysis and visualization.
+- Matplotlib and Seaborn: Proficient in using Matplotlib and Seaborn for Data Visualization.
+
+Web Development:
+- Flask: Actively learning Flask framework for building web applications.
+- Django: Engaged in learning Django framework to develop robust web applications.
+- JavaScript: Proficient in JavaScript for developing interactive web applications.
+
+Additional Skills:
+- Data Visualization and Analysis: Expertise in transforming complex datasets into meaningful visual representations.
+- Interactive Web Applications: Building user-friendly web applications to enhance data-driven solutions.
 ## Interests
 - Data Science
 - Machine Learning
