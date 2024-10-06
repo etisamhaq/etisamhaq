@@ -25,9 +25,12 @@ Web Development:
 - Django: Engaged in learning Django framework to develop robust web applications.
 - JavaScript: Proficient in JavaScript for developing interactive web applications.
 
-Additional Skills:
-- Data Visualization and Analysis: Expertise in transforming complex datasets into meaningful visual representations.
-- Interactive Web Applications: Building user-friendly web applications to enhance data-driven solutions.
+LLMs and Generative AI:
+- LLMs: Experienced in working with large language models for various natural language processing tasks, including text generation, summarization, and conversational AI.
+- RAG Applications: Skilled in building retrieval-augmented generation applications.
+- LangChain: Proficient in using LangChain for advanced language model integrations.
+- Vector Databases: Experienced in working with vector databases such as Pinecone, Chroma, Astra to store and retrieve embeddings for similarity search and enhanced performance in large-scale information retrieval.
+
 ## Interests
 - Data Science
 - Generative AI/Large Language Models
