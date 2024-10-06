@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=etisamhaq" alt="etisamhaq" /></a> </p>
 
-- Certified Data Scientist and a dedicated student pursuing a Bachelor's degree in Data Science. As an aspiring Data Scientist, I am driven by a strong desire to continuously learn and excel in this dynamic field. 
-- I’m currently learning **Data Science, Machine Learning, SQL Databases, Data Analysis in Python (Pandas, NumPy) and Excel, Data Visualization in Power Bi, Matplotlib, Seaborn**
+- Certified Data Scientist with 3+ years of experience in Data Science, Machine Learning, SQL Databases, Python, Data Analysis and pursuing a Bachelor's degree in Data Science. As an aspiring Data Scientist, I am driven by a strong desire to continuously learn and excel in this dynamic field. 
+- I’m currently learning **Data Science, Large Language Models, Machine Learning, SQL Databases, Data Analysis in Python (Pandas, NumPy) and Excel, Data Visualization in Power Bi, Matplotlib, Seaborn, Ploty**
 
 ## Technologies and Skills:
 Programming and Data Analysis:
@@ -30,15 +30,16 @@ Additional Skills:
 - Interactive Web Applications: Building user-friendly web applications to enhance data-driven solutions.
 ## Interests
 - Data Science
+- Generative AI/Large Language Models
 - Machine Learning
 - Data Visualization
 - Databases
 - Web Development
 
 ## Tech Competitions
+- [TechFest24](https://drive.google.com/file/d/1JJ3kEsLu8do6QPscBd1TabF3_QQuO0UT/view?usp=sharing): Winner of AI/ML Hackathon.
 - [PuCon23](https://drive.google.com/file/d/1yFHPU3xGbckjI9j0ZjGghIwSpS1RyhYI/view): Took part in WebHackathon and got 9th position from around 40 teams.
 - [Softec23](https://drive.google.com/file/d/1dgeuMYyYRhE_28A9uS-xxLQSPf4cU-I4/view): Participated in Programming Competition.
-- [TechFest24](https://drive.google.com/file/d/1JJ3kEsLu8do6QPscBd1TabF3_QQuO0UT/view?usp=sharing): Winner of AI/ML Hackathon.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
