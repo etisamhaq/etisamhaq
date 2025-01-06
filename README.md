@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Etisam Ul Haq</h1>
 <h3 align="center">A Data Scientist & Machine Learning Engineer</h3>
 
-<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=etisamhaq)](https://github.com/ryo-ma/github-profile-trophy)" alt="etisamhaq" /></a> </p>
-
 - Certified Data Scientist with 3+ years of experience in Data Science, Machine Learning, SQL Databases, Python, Data Analysis and pursuing a Bachelor's degree in Data Science. As an aspiring Data Scientist, I am driven by a strong desire to continuously learn and excel in this dynamic field. 
 - I’m currently learning **Data Science, Large Language Models, Machine Learning, SQL Databases, Data Analysis in Python (Pandas, NumPy) and Excel, Data Visualization in Power Bi, Matplotlib, Seaborn, Ploty**
 
