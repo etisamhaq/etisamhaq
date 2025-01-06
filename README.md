@@ -4,9 +4,9 @@
 - Certified Data Scientist with 3+ years of experience in Data Science, Machine Learning, SQL Databases, Python, Data Analysis and pursuing a Bachelor's degree in Data Science. As an aspiring Data Scientist, I am driven by a strong desire to continuously learn and excel in this dynamic field. 
 - I’m currently learning **Data Science, Large Language Models, Machine Learning, SQL Databases, Data Analysis in Python (Pandas, NumPy) and Excel, Data Visualization in Power Bi, Matplotlib, Seaborn, Ploty**
 
-# Technologies and Skills 🚀
+## Technologies and Skills 🚀
 
-## Programming and Data Analysis 📊
+### Programming and Data Analysis 📊
 - **Python** 🐍: Expertise in Python programming for data science applications.
 - **SQL** 💾: Proficient in SQL for database management and querying.
 - **Machine Learning** 🤖: Strong foundation in machine learning techniques and algorithms.
@@ -14,17 +14,17 @@
 - **Pandas** 🐼: Extensive experience using Pandas for data manipulation and analysis.
 - **NumPy** 🔢: Proficient in using NumPy for numerical computations and data processing.
 
-## Data Visualization 🎨
+### Data Visualization 🎨
 - **Power BI** 📊: Experienced in creating dynamic and interactive data visualizations.
 - **Excel** 📑: Skilled in using Excel for data analysis and visualization.
 - **Matplotlib and Seaborn** 📉: Proficient in using Matplotlib and Seaborn for Data Visualization.
 
-## Web Development 🌐
+### Web Development 🌐
 - **Flask** 🧪: Actively learning the Flask framework for building web applications.
 - **Django** 🛠️: Engaged in learning the Django framework to develop robust web applications.
 - **JavaScript** ⚡: Proficient in JavaScript for developing interactive web applications.
 
-## LLMs and Generative AI 🤖🧠
+### LLMs and Generative AI 🤖🧠
 - **LLMs** 💡: Experienced in working with large language models for various natural language processing tasks, including text generation, summarization, and conversational AI.
 - **RAG Applications** 🔍📜: Skilled in building retrieval-augmented generation applications.
 - **LangChain** 🔗: Proficient in using LangChain for advanced language model integrations.
