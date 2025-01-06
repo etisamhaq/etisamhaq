@@ -29,6 +29,13 @@
 - **RAG Applications** 🔍📜: Skilled in building retrieval-augmented generation applications.
 - **LangChain** 🔗: Proficient in using LangChain for advanced language model integrations.
 - **Vector Databases** 🗂️: Experienced in working with vector databases such as Pinecone, Chroma, and Astra to store and retrieve embeddings for similarity search and enhanced performance in large-scale information retrieval.
+- **Hugging Face** 🤗: Familiar with Hugging Face Transformers for state-of-the-art NLP and model deployment.
+
+### DevOps and Deployment ⚙️
+- **Docker** 🐳: Skilled in containerization and managing containerized applications using Docker.
+- **NGINX** 🌐: Experience in using NGINX as a reverse proxy and load balancer for web applications.
+- **GitHub Actions** 🔄: Proficient in setting up GitHub Actions for automated workflows.
+- **CI/CD Pipelines** 🚀: Skilled in creating and managing CI/CD pipelines for streamlined development and deployment processes.
 
 ## Interests
 - Data Science
