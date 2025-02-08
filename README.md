@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Etisam Ul Haq</h1>
 <h3 align="center">A Data Scientist & Machine Learning Engineer</h3>
 
-- Building [Clip Insights](https://clipinsights.com/) 
+- Building [Clip Insights](https://clipinsights.com/) - Your Ultimate Video Productivity Tool
 - Certified Data Scientist with 2+ years of experience in Data Science, Machine Learning, SQL Databases, Python, Data Analysis and pursuing a Bachelor's degree in Data Science. As an aspiring Data Scientist, I am driven by a strong desire to continuously learn and excel in this dynamic field. 
 - I’m currently learning **Data Science, Large Language Models, Machine Learning, SQL Databases, Data Analysis in Python (Pandas, NumPy) and Excel, Data Visualization in Power Bi, Matplotlib, Seaborn, Ploty**
 
