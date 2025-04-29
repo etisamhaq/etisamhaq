@@ -50,7 +50,7 @@
 - [TechFest24](https://drive.google.com/file/d/1JJ3kEsLu8do6QPscBd1TabF3_QQuO0UT/view?usp=sharing): Winner of AI/ML Hackathon.
 - [PuCon23](https://drive.google.com/file/d/1yFHPU3xGbckjI9j0ZjGghIwSpS1RyhYI/view): Took part in WebHackathon and got 9th position from around 40 teams.
 - [Softec23](https://drive.google.com/file/d/1dgeuMYyYRhE_28A9uS-xxLQSPf4cU-I4/view): Participated in Programming Competition.
-- [NaSCon25]: Participated in AI Hackathon
+- NaSCon25: Participated in AI Hackathon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
