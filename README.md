@@ -49,6 +49,7 @@
 ## Tech Competitions
 - [NUTEC25](https://drive.google.com/file/d/1E1je92J3Md6f6RmOkLw38Zok2gybXTsF/view?usp=sharing): Winner of Web Development Hackathon organized by FAST NUCES Peshawar.
 - [PuCon25](https://drive.google.com/file/d/1Se4QwgLIS88gPSeVx5MlEn63-8uhbiL4/view?usp=sharing): Winner of Data Quest Hackathon (LLMs, RAG, Agents) organized by PUCIT, Lahore.
+- [PuCon25](https://drive.google.com/file/d/1RaRsUdYle44kJg9-ywGE5FLsfYMB9Iut/view?usp=sharing): Winner of FYP Exhibition organized by PUCIT, Lahore.
 - [TechFest24](https://drive.google.com/file/d/1JJ3kEsLu8do6QPscBd1TabF3_QQuO0UT/view?usp=sharing): Winner of AI/ML Hackathon organized by PUCIT, Lahore.
 - [PuCon23](https://drive.google.com/file/d/1yFHPU3xGbckjI9j0ZjGghIwSpS1RyhYI/view): Took part in Web Hackathon and got 9th position from around 40 teams.
 - [Softec23](https://drive.google.com/file/d/1dgeuMYyYRhE_28A9uS-xxLQSPf4cU-I4/view): Participated in Programming Competition organized by FAST NUCES Lahore.
