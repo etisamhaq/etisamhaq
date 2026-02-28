@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Etisam Ul Haq</h1>
 <h3 align="center">A Data Scientist & AI/ML Engineer</h3>
 
-- Building [Montlify](https://montlify.com/), [Clip Insights](https://clipinsights.com/) - Your Ultimate Video Productivity Tool
+- Building [Montlify](https://montlify.com/), [Clip Insights](https://clipinsights.com/)
 - Certified Data Scientist with 2+ years of experience in Data Science, Machine Learning, Databases, Python, Data Analysis. As an aspiring Data Scientist, I am driven by a strong desire to continuously learn and excel in this dynamic field. 
 - I’m currently learning **Data Science, Large Language Models, Machine Learning, SQL Databases, Data Analysis in Python (Pandas, NumPy) and Excel, Data Visualization in Power Bi, Matplotlib, Seaborn, Ploty**
 
