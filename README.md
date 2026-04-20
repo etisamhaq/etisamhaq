@@ -20,47 +20,81 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming & Data
+### 💻 Programming & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,bash" />
 </p>
 
-### 📊 Data Science & ML
+---
+
+### 📊 Data Science & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge"/>
 </p>
 
-### 📈 Visualization & BI
+---
+
+### 📈 Data Visualization & Monitoring
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
+
+---
+
+### 🤖 AI / LLMs & Generative AI
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VectorDB-5A67D8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge"/>
+</p>
+
+---
+
+### 🔗 Automation & AI Tools
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GoHighLevel-FF6D00?style=for-the-badge"/>
+</p>
+
+---
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,html,css,tailwind,bootstrap" />
 </p>
 
-### 🤖 AI / LLMs
+---
+
+### 🗄️ Databases & Backend Services
 <p>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Chroma-5A67D8?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,supabase" />
 </p>
 
-### 🗄️ Databases
+---
+
+### ⚙️ DevOps & Streaming
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,githubactions,linux,kafka" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
 </p>
 
-### ⚙️ DevOps & Tools
+---
+
+### ☁️ Cloud & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku" />
 </p>
 
 ---
