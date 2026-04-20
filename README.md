@@ -105,7 +105,7 @@
 - 🥇 **TechFest24** – Winner (AI/ML Hackathon)
 - 🥇 **NUTEC25** – Winner (Web Development Hackathon)
 - 🥇 **PUCIT FYP Exhibition** – Winner
-- 🏅 Participated in Softec, NaSCon & multiple national and international competitions
+- 🏅 Participated in SOFTEC, NaSCon, Harvard CS50 Puzzle Day, and multiple national and international hackathons, including LabLab AI global competitions
 
 ---
 
