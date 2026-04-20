@@ -86,7 +86,7 @@
 
 ### ⚙️ DevOps & Streaming
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,githubactions,linux,kafka" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,githubactions,linux,kafka" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
 </p>
 
