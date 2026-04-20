@@ -11,14 +11,14 @@
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor's degree in Data Science from PUCIT, University of the Punjab
-- 💼 2+ years of experience in Data Science & Machine Learning  
+- 💼 3+ years of experience in Data Science & Machine Learning  
 - 🧠 Focused on **LLMs, RAG Systems, and AI Applications**
 - 🌱 Currently exploring **Advanced LLMs, Agents, and Scalable AI Systems**
 - ⚡ Passionate about solving real-world problems using AI
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech Stack
 
 ### 💻 Programming & Core
 <p>
