@@ -21,39 +21,45 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Data
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
 </p>
 
 ### 📊 Data Science & ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn" />
+<p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ### 📈 Visualization & BI
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=matplotlib" />
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=django,flask,html,css,tailwind,bootstrap" />
 </p>
 
 ### 🤖 AI / LLMs
-- LangChain • RAG Systems • Vector Databases (Pinecone, Chroma, Astra)
-- Hugging Face Transformers
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Chroma-5A67D8?style=for-the-badge"/>
+</p>
 
 ### 🗄️ Databases
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
 </p>
 
 ### ⚙️ DevOps & Tools
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,nginx,git,github" />
 </p>
 
@@ -65,7 +71,7 @@
 - 🥇 **TechFest24** – Winner (AI/ML Hackathon)
 - 🥇 **NUTEC25** – Winner (Web Development Hackathon)
 - 🥇 **PUCIT FYP Exhibition** – Winner
-- 🏅 Participated in Softec, NaSCon & multiple national competitions
+- 🏅 Participated in Softec, NaSCon & multiple national and international competitions
 
 ---
 
