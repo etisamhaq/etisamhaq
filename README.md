@@ -101,11 +101,12 @@
 
 ## 🏆 Achievements
 
-- 🥇 **PuCon25** – Winner (Data Quest: LLMs, RAG, Agents)
+- 🥇 **PuCon25** – Winner (Data Quest Hackathon: LLMs, RAG, Agents)
 - 🥇 **TechFest24** – Winner (AI/ML Hackathon)
 - 🥇 **NUTEC25** – Winner (Web Development Hackathon)
 - 🥇 **PUCIT FYP Exhibition** – Winner
-- 🏅 Participated in SOFTEC, NaSCon, Harvard CS50 Puzzle Day, and multiple national and international hackathons, including LabLab AI global competitions
+- 🏅 **Code Sprint LA 2026** – 21st Position (out of 392 contestants / 244 teams worldwide)
+- 🏅 Participated in SOFTEC, NaSCon, Harvard CS50x Puzzle Day, and multiple national and international hackathons, including LabLab AI global competitions
 
 ---
 
