@@ -10,11 +10,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Bachelor's degree in Data Science from PUCIT, University of the Punjab
-- 💼 3+ years of experience in Data Science & Machine Learning  
-- 🧠 Focused on **LLMs, RAG Systems, and AI Applications**
-- 🌱 Currently exploring **Advanced LLMs, Agents, and Scalable AI Systems**
-- ⚡ Passionate about solving real-world problems using AI
+* 🎓 Bachelor’s degree in Data Science from PUCIT, University of the Punjab
+* 💼 3+ years of experience in Data Science & Machine Learning, building real-world AI and software solutions
+* 🧠 Focused on **LLMs, RAG systems, AI agents, and Generative AI applications**
+* 🚀 Built and contributed to multiple end-to-end AI/ML and full-stack projects, delivering production-ready intelligent systems
+* 🌱 Currently exploring **advanced LLMs, agentic workflows, and scalable AI systems**
+* 👨‍🏫 Delivered 220+ lessons in Python, databases, AI, and data analysis to international students, while mentoring 40+ students with personalized support and consistently receiving 5-star ratings for teaching effectiveness
+* ⚡ Passionate about solving real-world problems using AI and continuously building impactful, scalable systems
 
 ---
 
