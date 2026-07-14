@@ -16,7 +16,7 @@
 * 🚀 Built and contributed to multiple end-to-end AI/ML and full-stack projects, delivering production-ready intelligent systems
 * 🌱 Currently exploring **advanced LLMs, agentic workflows, and scalable AI systems**
 * 👨‍🏫 Delivered 230+ lessons in Python, databases, AI, and data analysis to international students, while mentoring 40+ students with personalized support and consistently receiving 5-star ratings for teaching effectiveness
-* 🌍 Open Source Contributor at **[Omnigent](https://github.com/omnigent-ai/omnigent)**
+* 🌍 Open Source Contributor at [Omnigent](https://github.com/omnigent-ai/omnigent)
 * ⚡ Passionate about solving real-world problems using AI and continuously building impactful, scalable systems
 
 ---
