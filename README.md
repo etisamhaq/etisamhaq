@@ -109,6 +109,7 @@
 - 🥇 **NUTEC** – Winner (Web Development Hackathon)
 - 🥇 **PUCIT FYP Exhibition** – Winner
 - 🏅 **Code Sprint LA** – 21st Position (out of 392 contestants / 244 teams worldwide)
+- 🏅 Selected as a Section Leader (Mentor) for Stanford University’s Code in Place X program
 - 🏅 Participated in SOFTEC, NaSCon, Harvard CS50x Puzzle Day, and multiple national and international hackathons, including LabLab AI global competitions
 
 ---
