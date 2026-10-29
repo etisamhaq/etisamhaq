@@ -3,7 +3,7 @@
 
 <p align="center">
   Building <a href="https://montlify.com/">Montlify</a> • 
-  <a href="https://chromewebstore.google.com/detail/clip-insights/ccgechmifoecebnimnccgahnoklklilj">Clip Insights</a>
+  <a href="https://clipinsights.org/">Clip Insights</a>
 </p>
 
 ---
