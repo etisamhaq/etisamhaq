@@ -23,7 +23,7 @@
 ## 🚀 Featured Projects
 
 ### [Clip Insights](https://clipinsights.org/) — AI browser extension for video
-A Chrome extension that turns watching a video into working with it: one-click screenshots, timestamped notes that jump back to the moment, instant summaries and key points, a chat that answers questions from what is actually said in the video, and PDF export. **1st place among 35+ projects at the PUCon FYP Exhibition.**
+A Chrome extension that turns watching a video into working with it: one-click screenshots, timestamped notes that jump back to the moment, instant summaries and key points, a chat that answers questions from what is actually said in the video, and PDF export.
 <br/>🔗 [Website](https://clipinsights.org/) · [Chrome Web Store](https://chromewebstore.google.com/detail/clip-insights/ccgechmifoecebnimnccgahnoklklilj) · [Demo video](https://youtu.be/qP1heQSfVUA)
 
 ### [Montlify](https://montlify.com/) — AI productivity platform
