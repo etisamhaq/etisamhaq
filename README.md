@@ -16,7 +16,7 @@
 * Built and contributed to multiple end-to-end AI/ML and full-stack projects, delivering production-ready intelligent systems
 * Currently exploring **advanced LLMs, agentic workflows, and scalable AI systems**
 * 235+ lessons and 50+ students taught in Python, databases, AI and data analysis — rated 5.0 ★
-* Open Source Contributor at [Omnigent](https://github.com/omnigent-ai/omnigent), [ECC](https://github.com/affaan-m/ecc)
+* Open-source contributor to [Omnigent](https://github.com/omnigent-ai/omnigent) and [ECC](https://github.com/affaan-m/ECC)
 
 ---
 
@@ -41,6 +41,17 @@ A multi-tenant platform with a Chrome extension that turns an earnings call into
 ### [Agento Wear](https://agentowear.com) — Production e-commerce platform
 A live online store with guest and account checkout, secure authentication, product and order management, payment integration, automated emails and an admin dashboard.
 <br/>🔗 [Live store](https://agentowear.com)
+
+---
+
+## 🌍 Open Source Contributions
+
+**[Omnigent](https://github.com/omnigent-ai/omnigent)**: open-source AI agent framework for orchestrating Claude Code, Codex, Cursor and custom agents (11k+ stars)
+- [#168: Close a shell-command gate bypass](https://github.com/omnigent-ai/omnigent/pull/168) (merged). The safety-policy parser didn't treat a single `&` as a command separator, so a blocked command placed after it slipped through. Fixed the split and added tests.
+- [#57: Fix a crash in the skill-blocking policy](https://github.com/omnigent-ai/omnigent/pull/57) (merged). A message of just a slash and spaces (e.g. `"/ "`) raised an `IndexError` and wrongly blocked the request. Guarded the input and added tests.
+
+**[ECC](https://github.com/affaan-m/ECC)**: agent-harness optimization system for Claude Code, Codex, Cursor and more (290k+ stars)
+- [#2364: Add Python CI (ruff, mypy, pytest)](https://github.com/affaan-m/ECC/pull/2364) (merged). The LLM-abstraction package had 89 tests that never ran in CI. Added a Python 3.11/3.12 CI job and fixed the config and lint issues it surfaced.
 
 ---
 
